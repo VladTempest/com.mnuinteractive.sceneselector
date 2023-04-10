@@ -1,0 +1,9 @@
+{
+    "name": "com.mnuinteractive.sceneselector",
+    "version": "1.0.0",
+    "displayName": "Scene Selector",
+    "description": "usefull toolbar for selecting scenes in Unity Editor",
+    "dependencies": {
+    }
+  }
+  
